@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">I am 16 years old, and I am starting to learn more about coding</h3>
+<h3 align="center">I am 17 years old, and I am starting to learn more about coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes-nal&label=Profile%20views&color=0e75b6&style=flat" alt="enes-nal" /> </p>
 
