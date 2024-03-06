@@ -6,4 +6,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enes-nal&show_icons=true&locale=en&layout=compact" alt="enes-nal" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enes-nal&show_icons=true&locale=en" alt="enes-nal" /></p>
